@@ -21,3 +21,4 @@ unzip tabular-playground-series-aug-2021.zip
 
 ---
 
+![Screen Shot 2021-08-06 at 4.38.39 PM](/Users/nogeohyeon/Documents/GitHub/kaggle-Aug-2021/kaggle-Tabular-Playground-Series-Aug-2021/img/Screen Shot 2021-08-06 at 4.38.39 PM.png)
