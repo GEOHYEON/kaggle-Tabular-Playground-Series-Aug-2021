@@ -16,3 +16,8 @@
 kaggle competitions download -c tabular-playground-series-aug-2021
 unzip tabular-playground-series-aug-2021.zip
 ```
+
+### Tips
+
+---
+
